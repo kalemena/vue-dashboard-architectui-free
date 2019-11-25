@@ -10,6 +10,21 @@ In order to use this Vue theme youâ€™ll need at least basic coding skills. Donâ€
 
 <br />
 
+## Build & Run using Docker
+
+Below commands serves as dev mode on port 8080
+
+```bash
+$ make serve
+```
+
+Below commands build and run on port 8080
+
+```bash
+$ make build
+$ make deploy
+```
+
 ## Build from sources
 
 ```bash
