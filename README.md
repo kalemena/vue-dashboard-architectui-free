@@ -23,6 +23,8 @@ Below commands build and run on port 8080
 ```bash
 $ make build
 $ make deploy
+...
+$ make undeploy
 ```
 
 ## Build from sources
